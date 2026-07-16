@@ -29,5 +29,6 @@ bin/
 ### Mac OS ###
 .DS_Store
 
+### Manual ###
 .idea
 out
